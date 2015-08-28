@@ -1,0 +1,29 @@
+{
+  "name": "translation.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Formata um literal de string em cima de uma mascara",
+  "main": "translation.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bibizzy/translation.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ninja.JS": "*",
+    "curry.Ninja.JS": "*",
+    "iterator.Ninja.JS": "*",
+    "join.Ninja.JS": "*",
+    "map.Ninja.JS": "*",
+    "slice.Ninja.JS": "*"
+  }
+}
